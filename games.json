@@ -2,7 +2,7 @@
     {
         "id": "csti",
         "name": "Card Survival: Tropical Island",
-        "dataRepo": "HeYaoDaDa/GrcCstiData",
+        "dataRepo": "HeYaoDaDa/GrcData-csti",
         "steamAppName": "Card Survival Tropical Island",
         "relativeRootInstallPath": "./BepInEx/plugins",
         "autoMkRelativeRootInstallPath": false
@@ -10,7 +10,7 @@
     {
         "id": "cdda",
         "name": "Cataclysm: Dark Days Ahead",
-        "dataRepo": "HeYaoDaDa/CddaModCommunityData",
+        "dataRepo": "HeYaoDaDa/GrcData-cdda",
         "steamAppName": "Cataclysm Dark Days Ahead",
         "relativeRootInstallPath": "./mods",
         "autoMkRelativeRootInstallPath": true
